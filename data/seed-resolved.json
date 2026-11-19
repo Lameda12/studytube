@@ -1,0 +1,992 @@
+{
+ "math": [
+  {
+   "handle": "veritasium",
+   "id": "UCHnyfMqiRRG1u-2MsSQLbXA",
+   "title": "Veritasium",
+   "subs": 21500000,
+   "videos": 552,
+   "uploads": "UUHnyfMqiRRG1u-2MsSQLbXA"
+  },
+  {
+   "handle": "TheOrganicChemistryTutor",
+   "id": "UCEWpbFLzoYGPfuWUMFPSaoA",
+   "title": "The Organic Chemistry Tutor",
+   "subs": 11200000,
+   "videos": 3106,
+   "uploads": "UUEWpbFLzoYGPfuWUMFPSaoA"
+  },
+  {
+   "handle": "khanacademy",
+   "id": "UC4a-Gbdw7vOaccHmFo40b9g",
+   "title": "Khan Academy",
+   "subs": 9520000,
+   "videos": 9539,
+   "uploads": "UU4a-Gbdw7vOaccHmFo40b9g"
+  },
+  {
+   "handle": "3blue1brown",
+   "id": "UCYO_jab_esuFRV4b17AJtAw",
+   "title": "3Blue1Brown",
+   "subs": 8770000,
+   "videos": 249,
+   "uploads": "UUYO_jab_esuFRV4b17AJtAw"
+  },
+  {
+   "handle": "numberphile",
+   "id": "UCoxcjq-8xIDTYp3uz647V5A",
+   "title": "Numberphile",
+   "subs": 4790000,
+   "videos": 836,
+   "uploads": "UUoxcjq-8xIDTYp3uz647V5A"
+  },
+  {
+   "handle": "mathantics",
+   "id": "UCBuMwlP7kHkNxdPAqtFSJTw",
+   "title": "mathantics",
+   "subs": 3890000,
+   "videos": 108,
+   "uploads": "UUBuMwlP7kHkNxdPAqtFSJTw"
+  },
+  {
+   "handle": "blackpenredpen",
+   "id": "UC_SvYP0k05UKiJ_2ndB02IA",
+   "title": "blackpenredpen",
+   "subs": 1440000,
+   "videos": 2474,
+   "uploads": "UU_SvYP0k05UKiJ_2ndB02IA"
+  },
+  {
+   "handle": "zachstar",
+   "id": "UCpCSAcbqs-sjEVfk_hMfY9w",
+   "title": "Zach Star",
+   "subs": 1410000,
+   "videos": 274,
+   "uploads": "UUpCSAcbqs-sjEVfk_hMfY9w"
+  },
+  {
+   "handle": "patrickjmt",
+   "id": "UCFe6jenM1Bc54qtBsIJGRZQ",
+   "title": "Patrick J",
+   "subs": 1400000,
+   "videos": 2110,
+   "uploads": "UUFe6jenM1Bc54qtBsIJGRZQ"
+  },
+  {
+   "handle": "standupmaths",
+   "id": "UCSju5G2aFaWMqn-_0YBtq5A",
+   "title": "Stand-up Maths",
+   "subs": 1360000,
+   "videos": 323,
+   "uploads": "UUSju5G2aFaWMqn-_0YBtq5A"
+  },
+  {
+   "handle": "professorleonard",
+   "id": "UCoHhuummRZaIVX7bD4t2czg",
+   "title": "Professor Leonard",
+   "subs": 1290000,
+   "videos": 1221,
+   "uploads": "UUoHhuummRZaIVX7bD4t2czg"
+  },
+  {
+   "handle": "mathologer",
+   "id": "UC1_uAIS3r8Vu6JjXWvastJg",
+   "title": "Mathologer",
+   "subs": 969000,
+   "videos": 113,
+   "uploads": "UU1_uAIS3r8Vu6JjXWvastJg"
+  },
+  {
+   "handle": "welchlabs",
+   "id": "UConVfxXodg78Tzh5nNu85Ew",
+   "title": "Welch Labs",
+   "subs": 914000,
+   "videos": 162,
+   "uploads": "UUonVfxXodg78Tzh5nNu85Ew"
+  },
+  {
+   "handle": "NancyPi",
+   "id": "UCRGXV1QlxZ8aucmE45tRx8w",
+   "title": "NancyPi",
+   "subs": 723000,
+   "videos": 48,
+   "uploads": "UURGXV1QlxZ8aucmE45tRx8w"
+  },
+  {
+   "handle": "BriTheMathGuy",
+   "id": "UChVUSXFzV8QCOKNWGfE56YQ",
+   "title": "BriTheMathGuy",
+   "subs": 410000,
+   "videos": 711,
+   "uploads": "UUhVUSXFzV8QCOKNWGfE56YQ"
+  },
+  {
+   "handle": "MichaelPennMath",
+   "id": "UC6jM0RFkr4eSkzT5Gx0HOAw",
+   "title": "Michael Penn",
+   "subs": 357000,
+   "videos": 3106,
+   "uploads": "UU6jM0RFkr4eSkzT5Gx0HOAw"
+  },
+  {
+   "handle": "jbstatistics",
+   "id": "UCiHi6xXLzi9FMr9B0zgoHqA",
+   "title": "jbstatistics",
+   "subs": 230000,
+   "videos": 205,
+   "uploads": "UUiHi6xXLzi9FMr9B0zgoHqA"
+  },
+  {
+   "handle": "MathTheBeautiful",
+   "id": "UCr22xikWUK2yUW4YxOKXclQ",
+   "title": "MathTheBeautiful",
+   "subs": 98800,
+   "videos": 655,
+   "uploads": "UUr22xikWUK2yUW4YxOKXclQ"
+  }
+ ],
+ "science": [
+  {
+   "handle": "kurzgesagt",
+   "id": "UCsXVk37bltHxD1rDPwtNM8Q",
+   "title": "Kurzgesagt – In a Nutshell",
+   "subs": 25800000,
+   "videos": 400,
+   "uploads": "UUsXVk37bltHxD1rDPwtNM8Q"
+  },
+  {
+   "handle": "Vsauce",
+   "id": "UC6nSFpj9HTCZ5t-N3Rm3-HA",
+   "title": "Vsauce",
+   "subs": 25400000,
+   "videos": 674,
+   "uploads": "UU6nSFpj9HTCZ5t-N3Rm3-HA"
+  },
+  {
+   "handle": "TEDEd",
+   "id": "UCsooa4yRKGN_zEE8iknghZA",
+   "title": "TED-Ed",
+   "subs": 23000000,
+   "videos": 2398,
+   "uploads": "UUsooa4yRKGN_zEE8iknghZA"
+  },
+  {
+   "handle": "CrashCourse",
+   "id": "UCX6b17PVsYBQ0ip5gyeme-Q",
+   "title": "CrashCourse",
+   "subs": 17300000,
+   "videos": 1730,
+   "uploads": "UUX6b17PVsYBQ0ip5gyeme-Q"
+  },
+  {
+   "handle": "SmarterEveryDay",
+   "id": "UC6107grRI4m0o2-emgoDnAA",
+   "title": "SmarterEveryDay",
+   "subs": 11900000,
+   "videos": 398,
+   "uploads": "UU6107grRI4m0o2-emgoDnAA"
+  },
+  {
+   "handle": "NileRed",
+   "id": "UCFhXFikryT4aFcLkLw2LBLA",
+   "title": "NileRed",
+   "subs": 11000000,
+   "videos": 402,
+   "uploads": "UUFhXFikryT4aFcLkLw2LBLA"
+  },
+  {
+   "handle": "AsapSCIENCE",
+   "id": "UCC552Sd-3nyi_tk2BudLUzA",
+   "title": "AsapSCIENCE",
+   "subs": 10800000,
+   "videos": 569,
+   "uploads": "UUC552Sd-3nyi_tk2BudLUzA"
+  },
+  {
+   "handle": "BigThink",
+   "id": "UCvQECJukTDE2i6aCoMnS-Vg",
+   "title": "Big Think",
+   "subs": 9080000,
+   "videos": 10238,
+   "uploads": "UUvQECJukTDE2i6aCoMnS-Vg"
+  },
+  {
+   "handle": "SciShow",
+   "id": "UCZYTClx2T1of7BRZ86-8fow",
+   "title": "SciShow",
+   "subs": 8420000,
+   "videos": 4255,
+   "uploads": "UUZYTClx2T1of7BRZ86-8fow"
+  },
+  {
+   "handle": "minutephysics",
+   "id": "UCUHW94eEFW7hkUMVaZz4eDg",
+   "title": "minutephysics",
+   "subs": 5990000,
+   "videos": 320,
+   "uploads": "UUUHW94eEFW7hkUMVaZz4eDg"
+  },
+  {
+   "handle": "ProfessorDaveExplains",
+   "id": "UC0cd_-e49hZpWLH3UIwoWRA",
+   "title": "Professor Dave Explains",
+   "subs": 4510000,
+   "videos": 2176,
+   "uploads": "UU0cd_-e49hZpWLH3UIwoWRA"
+  },
+  {
+   "handle": "SteveMould",
+   "id": "UCEIwxahdLz7bap-VDs9h35A",
+   "title": "Steve Mould",
+   "subs": 3620000,
+   "videos": 393,
+   "uploads": "UUEIwxahdLz7bap-VDs9h35A"
+  },
+  {
+   "handle": "PhysicsGirl",
+   "id": "UC7DdEm33SyaTDtWYGO2CwdA",
+   "title": "Physics Girl",
+   "subs": 3550000,
+   "videos": 326,
+   "uploads": "UU7DdEm33SyaTDtWYGO2CwdA"
+  },
+  {
+   "handle": "PBSSpaceTime",
+   "id": "UC7_gcs09iThXybpVgjHZ_7g",
+   "title": "PBS Space Time",
+   "subs": 3540000,
+   "videos": 467,
+   "uploads": "UU7_gcs09iThXybpVgjHZ_7g"
+  },
+  {
+   "handle": "MinuteEarth",
+   "id": "UCeiYXex_fwgYDonaTcSIk6w",
+   "title": "MinuteEarth",
+   "subs": 3340000,
+   "videos": 531,
+   "uploads": "UUeiYXex_fwgYDonaTcSIk6w"
+  },
+  {
+   "handle": "AmoebaSisters",
+   "id": "UCb2GCoLSBXjmI_Qj1vk-44g",
+   "title": "Amoeba Sisters",
+   "subs": 2990000,
+   "videos": 233,
+   "uploads": "UUb2GCoLSBXjmI_Qj1vk-44g"
+  },
+  {
+   "handle": "TheRoyalInstitution",
+   "id": "UCYeF244yNGuFefuFKqxIAXw",
+   "title": "The Royal Institution",
+   "subs": 1820000,
+   "videos": 1952,
+   "uploads": "UUYeF244yNGuFefuFKqxIAXw"
+  },
+  {
+   "handle": "SabineHossenfelder",
+   "id": "UC1yNl2E66ZzKApQdRuTQ4tw",
+   "title": "Sabine Hossenfelder",
+   "subs": 1790000,
+   "videos": 1258,
+   "uploads": "UU1yNl2E66ZzKApQdRuTQ4tw"
+  },
+  {
+   "handle": "DomainOfScience",
+   "id": "UCxqAWLTk1CmBvZFPzeZMd9A",
+   "title": "Domain of Science",
+   "subs": 1670000,
+   "videos": 76,
+   "uploads": "UUxqAWLTk1CmBvZFPzeZMd9A"
+  },
+  {
+   "handle": "periodicvideos",
+   "id": "UCtESv1e7ntJaLJYKIO1FoYw",
+   "title": "Periodic Videos",
+   "subs": 1640000,
+   "videos": 752,
+   "uploads": "UUtESv1e7ntJaLJYKIO1FoYw"
+  },
+  {
+   "handle": "ArvinAsh",
+   "id": "UCpMcsdZf2KkAnfmxiq2MfMQ",
+   "title": "Arvin Ash",
+   "subs": 1130000,
+   "videos": 452,
+   "uploads": "UUpMcsdZf2KkAnfmxiq2MfMQ"
+  },
+  {
+   "handle": "Fermilab",
+   "id": "UCD5B6VoXv41fJ-IW8Wrhz9A",
+   "title": "Fermilab",
+   "subs": 832000,
+   "videos": 534,
+   "uploads": "UUD5B6VoXv41fJ-IW8Wrhz9A"
+  },
+  {
+   "handle": "ScienceAsylum",
+   "id": "UCXgNowiGxwwnLeQ7DXTwXPg",
+   "title": "The Science Asylum",
+   "subs": 732000,
+   "videos": 237,
+   "uploads": "UUXgNowiGxwwnLeQ7DXTwXPg"
+  },
+  {
+   "handle": "thebrainscoop",
+   "id": "UCkyfHZ6bY2TjqbJhiH8Y2QQ",
+   "title": "thebrainscoop",
+   "subs": 605000,
+   "videos": 241,
+   "uploads": "UUkyfHZ6bY2TjqbJhiH8Y2QQ"
+  },
+  {
+   "handle": "AlphaPhoenix",
+   "id": "UCDprHm6lgtPo9hrEmocZwwg",
+   "title": "Alphaphoenix",
+   "subs": 2,
+   "videos": 4,
+   "uploads": "UUDprHm6lgtPo9hrEmocZwwg"
+  }
+ ],
+ "computer-science": [
+  {
+   "handle": "freecodecamp",
+   "id": "UC8butISFwT-Wl7EV0hUK0BQ",
+   "title": "freeCodeCamp.org",
+   "subs": 12000000,
+   "videos": 2344,
+   "uploads": "UU8butISFwT-Wl7EV0hUK0BQ"
+  },
+  {
+   "handle": "TomScottGo",
+   "id": "UCBa659QWEk1AI4Tg--mrJ2A",
+   "title": "Tom Scott",
+   "subs": 6750000,
+   "videos": 766,
+   "uploads": "UUBa659QWEk1AI4Tg--mrJ2A"
+  },
+  {
+   "handle": "mitocw",
+   "id": "UCEBb1b_L6zDS3xTUrIALZOw",
+   "title": "MIT OpenCourseWare",
+   "subs": 6590000,
+   "videos": 8186,
+   "uploads": "UUEBb1b_L6zDS3xTUrIALZOw"
+  },
+  {
+   "handle": "Fireship",
+   "id": "UCsBjURrPoezykLs9EqgamOA",
+   "title": "Fireship",
+   "subs": 4340000,
+   "videos": 865,
+   "uploads": "UUsBjURrPoezykLs9EqgamOA"
+  },
+  {
+   "handle": "BroCodez",
+   "id": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+   "title": "Bro Code",
+   "subs": 3450000,
+   "videos": 1002,
+   "uploads": "UU4SVo0Ue36XCfOyb5Lh1viQ"
+  },
+  {
+   "handle": "Computerphile",
+   "id": "UC9-y-6csu5WGm29I7JiwpnA",
+   "title": "Computerphile",
+   "subs": 2640000,
+   "videos": 930,
+   "uploads": "UU9-y-6csu5WGm29I7JiwpnA"
+  },
+  {
+   "handle": "CS50",
+   "id": "UCcabW7890RKJzL968QWEykA",
+   "title": "CS50",
+   "subs": 2530000,
+   "videos": 2477,
+   "uploads": "UUcabW7890RKJzL968QWEykA"
+  },
+  {
+   "handle": "TheCodingTrain",
+   "id": "UCvjgXvBlbQiydffZU7m1_aw",
+   "title": "The Coding Train",
+   "subs": 1760000,
+   "videos": 1290,
+   "uploads": "UUvjgXvBlbQiydffZU7m1_aw"
+  },
+  {
+   "handle": "TechWorldwithNana",
+   "id": "UCdngmbVKX1Tgre699-XLlUA",
+   "title": "TechWorld with Nana",
+   "subs": 1500000,
+   "videos": 190,
+   "uploads": "UUdngmbVKX1Tgre699-XLlUA"
+  },
+  {
+   "handle": "BenEater",
+   "id": "UCS0N5baNlQWJCUrhCEo8WlA",
+   "title": "Ben Eater",
+   "subs": 1410000,
+   "videos": 135,
+   "uploads": "UUS0N5baNlQWJCUrhCEo8WlA"
+  },
+  {
+   "handle": "StanfordOnline",
+   "id": "UCBa5G_ESCn8Yd4vw5U-gIcg",
+   "title": "Stanford Online",
+   "subs": 1350000,
+   "videos": 3150,
+   "uploads": "UUBa5G_ESCn8Yd4vw5U-gIcg"
+  },
+  {
+   "handle": "abdul_bari",
+   "id": "UCZCFT11CWBi3MHNlGf019nw",
+   "title": "Abdul Bari",
+   "subs": 1330000,
+   "videos": 116,
+   "uploads": "UUZCFT11CWBi3MHNlGf019nw"
+  },
+  {
+   "handle": "LowLevelTV",
+   "id": "UC6biysICWOJ-C3P4Tyeggzg",
+   "title": "Low Level",
+   "subs": 1210000,
+   "videos": 412,
+   "uploads": "UU6biysICWOJ-C3P4Tyeggzg"
+  },
+  {
+   "handle": "NeetCode",
+   "id": "UC_mYaQAE6-71rjSN6CeCA-g",
+   "title": "NeetCode",
+   "subs": 1120000,
+   "videos": 491,
+   "uploads": "UU_mYaQAE6-71rjSN6CeCA-g"
+  },
+  {
+   "handle": "GOTO-",
+   "id": "UCs_tLP3AiwYKwdUHpltJPuA",
+   "title": "GOTO Conferences",
+   "subs": 1050000,
+   "videos": 3583,
+   "uploads": "UUs_tLP3AiwYKwdUHpltJPuA"
+  },
+  {
+   "handle": "NeuralNine",
+   "id": "UC8wZnXYK_CGKlBcZp-GxYPA",
+   "title": "NeuralNine",
+   "subs": 489000,
+   "videos": 1140,
+   "uploads": "UU8wZnXYK_CGKlBcZp-GxYPA"
+  },
+  {
+   "handle": "CodeAesthetic",
+   "id": "UCaSCt8s_4nfkRglWCvNSDrg",
+   "title": "CodeAesthetic",
+   "subs": 438000,
+   "videos": 8,
+   "uploads": "UUaSCt8s_4nfkRglWCvNSDrg"
+  },
+  {
+   "handle": "ArjanCodes",
+   "id": "UCVhQ2NnY5Rskt6UjCUkJ_DA",
+   "title": "ArjanCodes",
+   "subs": 346000,
+   "videos": 575,
+   "uploads": "UUVhQ2NnY5Rskt6UjCUkJ_DA"
+  },
+  {
+   "handle": "Reducible",
+   "id": "UCK8XIGR5kRidIw2fWqwyHRA",
+   "title": "Reducible",
+   "subs": 338000,
+   "videos": 23,
+   "uploads": "UUK8XIGR5kRidIw2fWqwyHRA"
+  },
+  {
+   "handle": "CppCon",
+   "id": "UCMlGfpWw-RUdWX_JbLCukXg",
+   "title": "CppCon",
+   "subs": 189000,
+   "videos": 1881,
+   "uploads": "UUMlGfpWw-RUdWX_JbLCukXg"
+  },
+  {
+   "handle": "jonhoo",
+   "id": "UC_iD0xppBwwsrM9DegC5cQQ",
+   "title": "Jon Gjengset",
+   "subs": 111000,
+   "videos": 122,
+   "uploads": "UU_iD0xppBwwsrM9DegC5cQQ"
+  },
+  {
+   "handle": "janestreet",
+   "id": "UCDsVC_ewpcEW_AQcO-H-RDQ",
+   "title": "Jane Street",
+   "subs": 104000,
+   "videos": 169,
+   "uploads": "UUDsVC_ewpcEW_AQcO-H-RDQ"
+  },
+  {
+   "handle": "CMUDatabaseGroup",
+   "id": "UCHnBsf2rH-K7pn09rb3qvkA",
+   "title": "CMU Database Group",
+   "subs": 93000,
+   "videos": 600,
+   "uploads": "UUHnBsf2rH-K7pn09rb3qvkA"
+  },
+  {
+   "handle": "MITCSAIL",
+   "id": "UCBpxspUNl1Th33XbugiHJzw",
+   "title": "MIT CSAIL",
+   "subs": 90500,
+   "videos": 291,
+   "uploads": "UUBpxspUNl1Th33XbugiHJzw"
+  },
+  {
+   "handle": "StrangeLoopConf",
+   "id": "UC_QIfHvN9auy2CoOdSfMWDw",
+   "title": "Strange Loop Conference",
+   "subs": 88200,
+   "videos": 718,
+   "uploads": "UU_QIfHvN9auy2CoOdSfMWDw"
+  },
+  {
+   "handle": "PyConUS",
+   "id": "UCMjMBMGt0WJQLeluw6qNJuA",
+   "title": "PyCon US",
+   "subs": 34500,
+   "videos": 829,
+   "uploads": "UUMjMBMGt0WJQLeluw6qNJuA"
+  },
+  {
+   "handle": "CoreySchafer",
+   "id": "UCJoS8wONbN1zKh2oKn1RbEw",
+   "title": "Coreyschafer",
+   "subs": 69,
+   "videos": 0,
+   "uploads": "UUJoS8wONbN1zKh2oKn1RbEw"
+  }
+ ],
+ "machine-learning": [
+  {
+   "handle": "3blue1brown",
+   "id": "UCYO_jab_esuFRV4b17AJtAw",
+   "title": "3Blue1Brown",
+   "subs": 8770000,
+   "videos": 249,
+   "uploads": "UUYO_jab_esuFRV4b17AJtAw"
+  },
+  {
+   "handle": "TwoMinutePapers",
+   "id": "UCbfYPyITQ-7l4upoX8nvctg",
+   "title": "Two Minute Papers",
+   "subs": 1840000,
+   "videos": 1112,
+   "uploads": "UUbfYPyITQ-7l4upoX8nvctg"
+  },
+  {
+   "handle": "AndrejKarpathy",
+   "id": "UCXUPKJO5MZQN11PqgIvyuvQ",
+   "title": "Andrej Karpathy",
+   "subs": 1770000,
+   "videos": 17,
+   "uploads": "UUXUPKJO5MZQN11PqgIvyuvQ"
+  },
+  {
+   "handle": "statquest",
+   "id": "UCtYLUTtgS3k1Fg4y5tAhLbw",
+   "title": "StatQuest with Josh Starmer",
+   "subs": 1720000,
+   "videos": 305,
+   "uploads": "UUtYLUTtgS3k1Fg4y5tAhLbw"
+  },
+  {
+   "handle": "GoogleDeepMind",
+   "id": "UCP7jMXSY2xbc3KCAE0MHQ-A",
+   "title": "Google DeepMind",
+   "subs": 943000,
+   "videos": 428,
+   "uploads": "UUP7jMXSY2xbc3KCAE0MHQ-A"
+  },
+  {
+   "handle": "Deeplearningai",
+   "id": "UCcIXc5mJsHVYTZR1maL5l9w",
+   "title": "DeepLearningAI",
+   "subs": 745000,
+   "videos": 689,
+   "uploads": "UUcIXc5mJsHVYTZR1maL5l9w"
+  },
+  {
+   "handle": "AAmini",
+   "id": "UCtslD4DGH6PKyG_1gFAX7sg",
+   "title": "Alexander Amini",
+   "subs": 358000,
+   "videos": 100,
+   "uploads": "UUtslD4DGH6PKyG_1gFAX7sg"
+  },
+  {
+   "handle": "YannicKilcher",
+   "id": "UCZHmQk67mSJgfCCTn7xBfew",
+   "title": "Yannic Kilcher",
+   "subs": 333000,
+   "videos": 485,
+   "uploads": "UUZHmQk67mSJgfCCTn7xBfew"
+  },
+  {
+   "handle": "SerranoAcademy",
+   "id": "UCgBncpylJ1kiVaPyP-PZauQ",
+   "title": "Luis Serrano Academy",
+   "subs": 198000,
+   "videos": 108,
+   "uploads": "UUgBncpylJ1kiVaPyP-PZauQ"
+  },
+  {
+   "handle": "CodeEmporium",
+   "id": "UC5_6ZD6s8klmMu9TXEB_1IA",
+   "title": "CodeEmporium",
+   "subs": 159000,
+   "videos": 392,
+   "uploads": "UU5_6ZD6s8klmMu9TXEB_1IA"
+  },
+  {
+   "handle": "samwitteveenai",
+   "id": "UC55ODQSvARtgSyc8ThfiepQ",
+   "title": "Sam Witteveen",
+   "subs": 142000,
+   "videos": 394,
+   "uploads": "UU55ODQSvARtgSyc8ThfiepQ"
+  },
+  {
+   "handle": "umarjamilai",
+   "id": "UCtAcpQcYerN8xxZJYTfWBMw",
+   "title": "Umar Jamil",
+   "subs": 93000,
+   "videos": 25,
+   "uploads": "UUtAcpQcYerN8xxZJYTfWBMw"
+  },
+  {
+   "handle": "arp_ai",
+   "id": "UCmOwsoHty5PrmE-3QhUBfPQ",
+   "title": "Jay Alammar",
+   "subs": 65500,
+   "videos": 41,
+   "uploads": "UUmOwsoHty5PrmE-3QhUBfPQ"
+  },
+  {
+   "handle": "AICoffeeBreak",
+   "id": "UCobqgqE4i5Kf7wrxRxhToQA",
+   "title": "AI Coffee Break with Letitia",
+   "subs": 65400,
+   "videos": 144,
+   "uploads": "UUobqgqE4i5Kf7wrxRxhToQA"
+  },
+  {
+   "handle": "mildlyoverfitted",
+   "id": "UCYBSjwkGTK06NnDnFsOcR7g",
+   "title": "mildlyoverfitted",
+   "subs": 8040,
+   "videos": 27,
+   "uploads": "UUYBSjwkGTK06NnDnFsOcR7g"
+  }
+ ],
+ "engineering": [
+  {
+   "handle": "ElectroBOOM",
+   "id": "UCJ0-OtVpF0wOKEqT2Z1HEtA",
+   "title": "ElectroBOOM",
+   "subs": 8950000,
+   "videos": 397,
+   "uploads": "UUJ0-OtVpF0wOKEqT2Z1HEtA"
+  },
+  {
+   "handle": "RealEngineering",
+   "id": "UCR1IuLEqb6UEA_zQ81kwXfg",
+   "title": "Real Engineering",
+   "subs": 5120000,
+   "videos": 298,
+   "uploads": "UUR1IuLEqb6UEA_zQ81kwXfg"
+  },
+  {
+   "handle": "TechnologyConnections",
+   "id": "UCy0tKL1T7wFoYcxCe0xjN6Q",
+   "title": "Technology Connections",
+   "subs": 3230000,
+   "videos": 235,
+   "uploads": "UUy0tKL1T7wFoYcxCe0xjN6Q"
+  },
+  {
+   "handle": "ScottManley",
+   "id": "UCxzC4EngIsMrPmbm6Nxvb-A",
+   "title": "Scott Manley",
+   "subs": 1880000,
+   "videos": 3094,
+   "uploads": "UUxzC4EngIsMrPmbm6Nxvb-A"
+  },
+  {
+   "handle": "EEVblog",
+   "id": "UC2DjFE7Xf11URZqWBigcVOQ",
+   "title": "EEVblog",
+   "subs": 1010000,
+   "videos": 2176,
+   "uploads": "UU2DjFE7Xf11URZqWBigcVOQ"
+  },
+  {
+   "handle": "AppliedScience",
+   "id": "UCivA7_KLKWo43tFcCkFvydw",
+   "title": "Applied Science",
+   "subs": 891000,
+   "videos": 280,
+   "uploads": "UUivA7_KLKWo43tFcCkFvydw"
+  },
+  {
+   "handle": "SamZeloof",
+   "id": "UC7E8-0Ou69hwScPW1_fQApA",
+   "title": "Sam Zeloof",
+   "subs": 148000,
+   "videos": 36,
+   "uploads": "UU7E8-0Ou69hwScPW1_fQApA"
+  },
+  {
+   "handle": "PracticalEngineering",
+   "id": "UCAK3X_yAuxrQo_6q_mzPK8w",
+   "title": "Practical Engineering Australia",
+   "subs": 217,
+   "videos": 17,
+   "uploads": "UUAK3X_yAuxrQo_6q_mzPK8w"
+  },
+  {
+   "handle": "GreatScott",
+   "id": "UCXPkzOrPhMAbBjLJ7hOQXoA",
+   "title": "GreatScott",
+   "subs": 91,
+   "videos": 0,
+   "uploads": "UUXPkzOrPhMAbBjLJ7hOQXoA"
+  },
+  {
+   "handle": "BrianDouglas",
+   "id": "UCgOO6VsbR7GVk6-uHeFx2Vg",
+   "title": "Brian Douglas",
+   "subs": 23,
+   "videos": 0,
+   "uploads": "UUgOO6VsbR7GVk6-uHeFx2Vg"
+  }
+ ],
+ "business": [
+  {
+   "handle": "TED",
+   "id": "UCAuUUnT6oDeKwE6v1NGQxug",
+   "title": "TED",
+   "subs": 28000000,
+   "videos": 5900,
+   "uploads": "UUAuUUnT6oDeKwE6v1NGQxug"
+  },
+  {
+   "handle": "Wendoverproductions",
+   "id": "UC9RM-iSvTu1uPJb8X5yp3EQ",
+   "title": "Wendover Productions",
+   "subs": 4920000,
+   "videos": 292,
+   "uploads": "UU9RM-iSvTu1uPJb8X5yp3EQ"
+  },
+  {
+   "handle": "stanfordgsb",
+   "id": "UCGwuxdEeCf0TIA2RbPOj-8g",
+   "title": "Stanford Graduate School of Business",
+   "subs": 2820000,
+   "videos": 3930,
+   "uploads": "UUGwuxdEeCf0TIA2RbPOj-8g"
+  },
+  {
+   "handle": "YCombinator",
+   "id": "UCcefcZRL2oaA_uBNeo5UOWg",
+   "title": "Y Combinator",
+   "subs": 2440000,
+   "videos": 943,
+   "uploads": "UUcefcZRL2oaA_uBNeo5UOWg"
+  },
+  {
+   "handle": "TalksatGoogle",
+   "id": "UCbmNph6atAoGfqLoCL_duAg",
+   "title": "Talks at Google",
+   "subs": 2400000,
+   "videos": 5689,
+   "uploads": "UUbmNph6atAoGfqLoCL_duAg"
+  },
+  {
+   "handle": "HarvardBusinessReview",
+   "id": "UCWo4IA01TXzBeGJJKWHOG9g",
+   "title": "Harvard Business Review",
+   "subs": 1680000,
+   "videos": 768,
+   "uploads": "UUWo4IA01TXzBeGJJKWHOG9g"
+  },
+  {
+   "handle": "PBoyle",
+   "id": "UCASM0cgfkJxQ1ICmRilfHLw",
+   "title": "Patrick Boyle",
+   "subs": 1370000,
+   "videos": 488,
+   "uploads": "UUASM0cgfkJxQ1ICmRilfHLw"
+  },
+  {
+   "handle": "ThePlainBagel",
+   "id": "UCFCEuCsyWP0YkP3CZ3Mr01Q",
+   "title": "The Plain Bagel",
+   "subs": 1230000,
+   "videos": 284,
+   "uploads": "UUFCEuCsyWP0YkP3CZ3Mr01Q"
+  },
+  {
+   "handle": "AswathDamodaranonValuation",
+   "id": "UCLvnJL8htRR1T9cbSccaoVw",
+   "title": "Aswath Damodaran",
+   "subs": 1020000,
+   "videos": 1419,
+   "uploads": "UULvnJL8htRR1T9cbSccaoVw"
+  },
+  {
+   "handle": "MarginalRevolutionUniversity",
+   "id": "UCnkEhPBMZcEO0QGu51fDFDg",
+   "title": "Marginal Revolution University",
+   "subs": 422000,
+   "videos": 1343,
+   "uploads": "UUnkEhPBMZcEO0QGu51fDFDg"
+  },
+  {
+   "handle": "a16z",
+   "id": "UC9cn0TuPq4dnbTY-CBsm8XA",
+   "title": "a16z",
+   "subs": 310000,
+   "videos": 1393,
+   "uploads": "UU9cn0TuPq4dnbTY-CBsm8XA"
+  },
+  {
+   "handle": "Investopedia",
+   "id": "UCvwFhI0mrIWDiZUabRapS5Q",
+   "title": "Investopedia",
+   "subs": 307000,
+   "videos": 583,
+   "uploads": "UUvwFhI0mrIWDiZUabRapS5Q"
+  }
+ ],
+ "arts": [
+  {
+   "handle": "theschooloflifetv",
+   "id": "UC7IcJI8PUf5Z3zKxnZvTBog",
+   "title": "The School of Life",
+   "subs": 9810000,
+   "videos": 1269,
+   "uploads": "UU7IcJI8PUf5Z3zKxnZvTBog"
+  },
+  {
+   "handle": "CGPGrey",
+   "id": "UC2C_jShtL725hvbm1arSV9w",
+   "title": "CGP Grey",
+   "subs": 7050000,
+   "videos": 195,
+   "uploads": "UU2C_jShtL725hvbm1arSV9w"
+  },
+  {
+   "handle": "RickBeato",
+   "id": "UCJquYOG5EL82sKTfH9aMA9Q",
+   "title": "Rick Beato",
+   "subs": 5920000,
+   "videos": 2410,
+   "uploads": "UUJquYOG5EL82sKTfH9aMA9Q"
+  },
+  {
+   "handle": "Nerdwriter1",
+   "id": "UCJkMlOu7faDgqh4PfzbpLdg",
+   "title": "Nerdwriter1",
+   "subs": 3240000,
+   "videos": 315,
+   "uploads": "UUJkMlOu7faDgqh4PfzbpLdg"
+  },
+  {
+   "handle": "harvard",
+   "id": "UCLv7Gzc3VTO6ggFlXY0sOyw",
+   "title": "Harvard University",
+   "subs": 2910000,
+   "videos": 3791,
+   "uploads": "UULv7Gzc3VTO6ggFlXY0sOyw"
+  },
+  {
+   "handle": "YaleCourses",
+   "id": "UC4EY_qnSeAP1xGsh61eOoJA",
+   "title": "YaleCourses",
+   "subs": 1890000,
+   "videos": 2445,
+   "uploads": "UU4EY_qnSeAP1xGsh61eOoJA"
+  },
+  {
+   "handle": "AdamNeely",
+   "id": "UCnkp4xDOwqqJD7sSM3xdUiQ",
+   "title": "Adam Neely",
+   "subs": 1830000,
+   "videos": 532,
+   "uploads": "UUnkp4xDOwqqJD7sSM3xdUiQ"
+  },
+  {
+   "handle": "PhilosophyTube",
+   "id": "UC2PA-AKmVpU6NKCGtZq_rKQ",
+   "title": "Philosophy Tube",
+   "subs": 1670000,
+   "videos": 398,
+   "uploads": "UU2PA-AKmVpU6NKCGtZq_rKQ"
+  },
+  {
+   "handle": "LessonsfromtheScreenplay",
+   "id": "UCErSSa3CaP_GJxmFpdjG9Jw",
+   "title": "Lessons from the Screenplay",
+   "subs": 1510000,
+   "videos": 68,
+   "uploads": "UUErSSa3CaP_GJxmFpdjG9Jw"
+  },
+  {
+   "handle": "Polyphonic",
+   "id": "UCXkNod_JcH7PleOjwK_8rYQ",
+   "title": "Polyphonic",
+   "subs": 1160000,
+   "videos": 438,
+   "uploads": "UUXkNod_JcH7PleOjwK_8rYQ"
+  },
+  {
+   "handle": "NativLang",
+   "id": "UCMk_WSPy3EE16aK5HLzCJzw",
+   "title": "NativLang",
+   "subs": 1070000,
+   "videos": 223,
+   "uploads": "UUMk_WSPy3EE16aK5HLzCJzw"
+  },
+  {
+   "handle": "12tone",
+   "id": "UCTUtqcDkzw7bisadh6AOx5w",
+   "title": "12tone",
+   "subs": 789000,
+   "videos": 397,
+   "uploads": "UUTUtqcDkzw7bisadh6AOx5w"
+  },
+  {
+   "handle": "TheArtAssignment",
+   "id": "UCmQThz1OLYt8mb2PU540LOA",
+   "title": "The Art Assignment",
+   "subs": 718000,
+   "videos": 230,
+   "uploads": "UUmQThz1OLYt8mb2PU540LOA"
+  },
+  {
+   "handle": "oxfordUniversity",
+   "id": "UCK8f1CUe8y403u3b0gCINww",
+   "title": "University of Oxford",
+   "subs": 519000,
+   "videos": 1701,
+   "uploads": "UUK8f1CUe8y403u3b0gCINww"
+  },
+  {
+   "handle": "ArtofTheProblem",
+   "id": "UCotwjyJnb-4KW7bmsOoLfkg",
+   "title": "Art of the Problem",
+   "subs": 396000,
+   "videos": 178,
+   "uploads": "UUotwjyJnb-4KW7bmsOoLfkg"
+  }
+ ]
+}

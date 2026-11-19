@@ -1,0 +1,17 @@
+node_modules
+.next
+out
+next-env.d.ts
+tsconfig.tsbuildinfo
+.vercel
+.wrangler
+.claude
+.DS_Store
+.env*.local
+.env
+
+# regenerable / large
+data/yt-cache.json
+
+# launch material and rendered videos live outside the repo
+promo

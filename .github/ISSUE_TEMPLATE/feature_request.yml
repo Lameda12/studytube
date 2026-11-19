@@ -1,0 +1,25 @@
+name: Feature or content request
+description: An idea, a missing channel, a missing Learn track
+labels: [enhancement]
+body:
+  - type: dropdown
+    id: kind
+    attributes:
+      label: Kind
+      options:
+        - New feature
+        - Missing channel
+        - Missing or weak Learn track
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would you like to see?
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why would it help you study?

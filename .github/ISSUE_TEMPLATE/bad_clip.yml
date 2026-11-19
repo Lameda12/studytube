@@ -1,0 +1,33 @@
+name: Bad clip or wrong video
+description: A clip starts in the wrong place, is off-topic, or won't play
+labels: [data]
+body:
+  - type: input
+    id: video
+    attributes:
+      label: Video
+      description: YouTube link or the 11-character id
+      placeholder: https://www.youtube.com/watch?v=...
+    validations:
+      required: true
+  - type: dropdown
+    id: problem
+    attributes:
+      label: What's wrong?
+      options:
+        - Starts in the wrong place
+        - Off-topic / not study content
+        - Wrong topic or level
+        - Won't play in the embed
+        - Creator wants it removed
+    validations:
+      required: true
+  - type: input
+    id: better
+    attributes:
+      label: Better start time (if known)
+      placeholder: 12:34
+  - type: textarea
+    id: notes
+    attributes:
+      label: Anything else

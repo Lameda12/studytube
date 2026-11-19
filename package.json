@@ -1,0 +1,43 @@
+{
+  "name": "studytube",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "typecheck": "tsc --noEmit",
+    "test": "node --test scripts/",
+    "check": "npm run typecheck && npm test && npm run build",
+    "mine": "node scripts/mine.mjs 3",
+    "curate": "node scripts/curate.mjs",
+    "enrich": "node scripts/enrich.mjs",
+    "mine:times": "node scripts/mine-times.mjs",
+    "ingest:seeds": "node scripts/ingest-seeds.mjs",
+    "heat": "node scripts/heat.mjs",
+    "build:data": "node scripts/build.mjs"
+  },
+  "dependencies": {
+    "next": "^16.4.6",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.6",
+    "@types/react": "^19.3.0",
+    "typescript": "^7.0.2"
+  },
+  "description": "TikTok-style feed of 90-second study clips, picked from what Hacker News readers recommend. Free, no login.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lameda12/studytube.git"
+  },
+  "homepage": "https://studytube-36f.pages.dev",
+  "bugs": {
+    "url": "https://github.com/Lameda12/studytube/issues"
+  },
+  "engines": {
+    "node": ">=22.18"
+  }
+}
